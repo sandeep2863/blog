@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <body>
+<!-- hello there -->
         <head>
         @include('partials._head')
         </head>
